@@ -1,6 +1,8 @@
 from tkinter import *
 import time
-#----------
+# Created by @EhsanZaeimzadeh <ehsan@pigmentory.app>
+__author__ = "Ehsan Zaeimzadeh"
+__email__ = "ehsan@pigmentory.app"
 class GoL():
    #----------
    def __init__(self, aliveList):
